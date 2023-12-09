@@ -8,4 +8,6 @@ Brit Dao - bhd14@pitt.edu
 
 ### Datasets Used
 
+Sidewalk to Street "Walkability" Ratio (Nick Cassano) - [link](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
+
 Pittsburgh Public School Enrollment by Neighborhood and School (Bella Quattrucci) - [link](https://data.wprdc.org/dataset/27b6eef7-8825-4cc4-8b48-52c17ac80d37/resource/7b0660d1-c812-496d-ab0a-8560902e9e70/download/neighborhood_school_enrollment.csv)
